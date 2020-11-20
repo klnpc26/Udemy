@@ -1,8 +1,8 @@
 package Enumerate;
 
-import entities.enums.Client;
-import entities.enums.OrderItem;
-import entities.enums.OrderStatus2;
+import Enumerate.Client;
+import Enumerate.OrderItem;
+import Enumerate.OrderStatus2;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;

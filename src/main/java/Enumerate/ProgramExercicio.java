@@ -1,10 +1,10 @@
 package Enumerate;
 
-import entities.enums.Client;
-import entities.enums.Order;
-import entities.enums.OrderItem;
-import entities.enums.OrderStatus2;
-import entities.enums.Product;
+import Enumerate.Client;
+import Enumerate.Order;
+import Enumerate.OrderItem;
+import Enumerate.OrderStatus2;
+import Enumerate.Product;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
