@@ -1,6 +1,6 @@
 package HerancaEPolimorfismo;
 
-import Heranca.Product;
+import HerancaEPolimorfismo.Product;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 

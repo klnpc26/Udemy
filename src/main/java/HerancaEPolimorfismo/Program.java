@@ -1,8 +1,8 @@
 package HerancaEPolimorfismo;
 
-import Heranca.ImportedProduct;
-import Heranca.Product;
-import Heranca.UsedProduct;
+import HerancaEPolimorfismo.ImportedProduct;
+import HerancaEPolimorfismo.Product;
+import HerancaEPolimorfismo.UsedProduct;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;

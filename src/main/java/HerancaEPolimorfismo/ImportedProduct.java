@@ -1,6 +1,6 @@
 package HerancaEPolimorfismo;
 
-import Heranca.Product;
+import HerancaEPolimorfismo.Product;
 
 public class ImportedProduct extends Product{
     
